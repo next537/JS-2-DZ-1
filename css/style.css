@@ -1,0 +1,27 @@
+.header {
+      background-color: #222222;
+  padding: 18px 0;
+  display: flex;
+      justify-content: center;
+  }
+
+  .btn-cart {
+      cursor: pointer;
+  }
+
+  .products {
+      column-gap: 30px;
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 100px 20px 100px;
+      border: solid 1px #FF0000;
+  }
+
+  .product-item {
+      padding: 20px;
+      border: solid 1px #008000;
+  }
+
+  .by-btn {
+      cursor: pointer;
+  }
